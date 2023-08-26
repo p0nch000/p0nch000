@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Poncho
+Poncho
 
 ## 🖥️ Computer Engineering Student 
 
