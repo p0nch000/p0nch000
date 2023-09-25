@@ -10,7 +10,7 @@ Poncho
 - **Interests**: 
   - Blockchain ⛓️ (Ethereum: Crypto, Smart Contracts, NFTs, Polygon)
   - Web3 🕸️
-  - Backend Development 🖲️ (Node.js, SQL)
+  - Backend Development 🖲️ (Node.js, PostgreSQL, Express,js)
   - Cybersecurity 🔒
 - **Hobbies**: Staying active with sports⚽ 
 
