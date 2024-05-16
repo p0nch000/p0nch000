@@ -5,7 +5,7 @@ Poncho
 ---
 
 # 🌱 About Me
-Hello! I'm a 19-year-old developer from Mexico, deeply passionate about the evolving world of technology. Here's a glimpse into my professional interests and expertise:
+Hello! I'm a 20-year-old developer from Mexico, deeply passionate about the evolving world of technology. Here's a glimpse into my professional interests and expertise:
 
 - **Blockchain Technologies** ⛓️
   - Ethereum: Cryptocurrencies, Smart Contracts, NFTs, Polygon
