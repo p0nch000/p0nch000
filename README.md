@@ -8,7 +8,7 @@ I'm a **Full-Stack Developer**, **ICPC Mexico Finalist**, and **Ex MLH Fellow**,
 
 - **Computer Engineering** @ **Tecnológico de Monterrey** (Graduating July 2026)
 - **ICPC Mexico Finalist** – Specializing in **Graph Theory**, **Math Problems**, and **Data Structures**
-- **MLH Fellowship** – Contributing to **[Meta’s StyleX Library](https://github.com/facebookresearch/stylex)**
+- **MLH Fellowship** – Contributing to **[Meta’s StyleX Library](https://github.com/facebook/stylex)**
 
 ---
 
@@ -19,7 +19,7 @@ I'm a **Full-Stack Developer**, **ICPC Mexico Finalist**, and **Ex MLH Fellow**,
 - Worked on **Orbit Labs (MIT)**: A collaborative innovation platform leveraging **MongoDB**, **TRPC**, **Typesense**, **Stack AI**, **Zustand**, and **TypeScript**.
 - Developed **LosCoaches App**: Automated billing, subscription management, and centralized athlete communication with integrations (**SparkPost**, **Slack**, **Intercom**).
 
-### [Eidos Tech](https://eidostech.com) – **Founder & Developer**
+### [Eidos Tech](https://eidostech.io) – **Founder & Developer**
 - Delivering custom web and mobile applications tailored to client needs across multiple industries.
 - **Sekisui Billing System**: Automated invoice platform with XML handling using **Next.js**, **Sequelize**, and Node.js.
 - **Whistleblower Social App**: Real estate scam reporting platform with real-time features built with **Node.js**, **Sequelize**, and **PostgreSQL**.
@@ -58,8 +58,8 @@ I'm a **Full-Stack Developer**, **ICPC Mexico Finalist**, and **Ex MLH Fellow**,
 
 ## 📌 Featured Projects
 
-- 🚀 **[Orbit Labs (MIT)](#)** – Facilitating innovation with cutting-edge tech stack (**MongoDB, TRPC, Typesense, TypeScript**)
-- 📱 **[LosCoaches App](#)** – Subscription and communication app for coaches (**MongoDB, Next.js, Tailwind**)
+- 🚀 **[Orbit Labs (MIT)](https://orbit.mit.edu/)** – Facilitating innovation with cutting-edge tech stack (**MongoDB, TRPC, Typesense, TypeScript**)
+- 📱 **[LosCoaches App](https://www.loscoaches.app/)** – Subscription and communication app for coaches (**MongoDB, Next.js, Tailwind**)
 - 💡 **[Whistleblower](#)** – Social app for reporting scams (**Node.js, PostgreSQL, Sequelize**)
 
 ---
